@@ -115,3 +115,8 @@ A: `edge-tts --list-voices` 可列全部；中文常用：
 ## License
 
 MIT
+
+
+## 界面截图
+
+![界面截图](screenshot.png)
