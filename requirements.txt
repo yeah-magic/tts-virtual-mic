@@ -1,0 +1,4 @@
+edge-tts>=7.0.0
+miniaudio>=1.60
+soundcard>=0.4.3
+numpy>=1.24
