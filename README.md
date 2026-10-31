@@ -106,8 +106,6 @@ A: `edge-tts --list-voices` 可列全部；中文常用：
 | `tts-ui.bat` / `speak-clipboard.bat` | 双击即用的批处理 |
 | `requirements.txt` | Python 依赖 |
 
-![screenshot](docs/screenshot.png)
-
 ## 已知限制
 
 - 仅 Windows（依赖 WASAPI + 虚拟声卡设备名）
